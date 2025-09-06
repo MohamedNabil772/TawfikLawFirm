@@ -122,3 +122,15 @@ section[id] {
     transform: none !important;
   }
 }
+@media (max-width: 768px) {
+  #whyUs {
+    min-height: auto !important;
+    height: auto !important;
+    overflow: visible !important;
+  }
+}
+#whyUs [data-aos],
+#whyUs .aov {
+  opacity: 1 !important;
+  transform: none !important;
+}
