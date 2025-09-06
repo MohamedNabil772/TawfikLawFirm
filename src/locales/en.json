@@ -3,7 +3,7 @@
     "title": "Contact Us",
     "subtitle": "Discretion. Precision. Results.",
     "hero": {
-      "image": "src/assets/contact/hero.jpg",
+      "image": "/images/contact/hero.jpg",
       "tagline": "Your trusted legal partner in Egypt."
     },
     "whatsapp": {
@@ -57,19 +57,19 @@
     "paragraphs": [
       {
         "text": "Everyone needs legal advice at some point. Whether it's business, property, or personal matters, <span class='font-semibold text-gold'>Mohamed Tawfik Law Firm</span> is here to provide the legal consultation you need, with deep expertise and knowledge of Egyptian law.",
-        "image": "src/assets/about/business-law.jpg"
+        "image": "/images/about/business-law.jpg"
       },
       {
         "text": "Starting a Business in Egypt requires the right legal foundation. We provide comprehensive guidance from choosing the legal structure, company registration with GAFI, obtaining a tax ID, to opening corporate bank accounts.",
-        "image": "src/assets/about/company-setup.jpg"
+        "image": "/images/about/company-setup.jpg"
       },
       {
         "text": "For foreign clients, our firm offers complete service for residence procedures in Egypt: fast processing, certified translations, and smooth handling of all documentation. We make your paperwork effortless.",
-        "image": "src/assets/about/residence.jpg"
+        "image": "/images/about/residence.jpg"
       },
       {
         "text": "In real estate law, we specialize in protecting investors in Hurghada and the Red Sea. We verify ownership, draft solid contracts, and through <span class='font-semibold text-gold'>Tawfik Property</span> ensure both transparency and security.",
-        "image": "src/assets/about/real-estate.jpg"
+        "image": "/images/about/real-estate.jpg"
       }
     ]
   },
