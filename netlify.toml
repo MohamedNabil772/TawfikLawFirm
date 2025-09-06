@@ -1,0 +1,13 @@
+[build]
+  command = "npm ci && npm run build"
+  publish = "dist"
+
+# Fix Vue Router (history mode) refresh 404s
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# (Optional) lock Node version used by Netlify
+[build.environment]
+  NODE_VERSION = "20"
