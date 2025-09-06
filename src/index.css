@@ -1,0 +1,124 @@
+/* 1) imports FIRST */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=DM+Sans:wght@400;500&display=swap');
+
+/* 2) tailwind directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 3) your CSS */
+html { scroll-behavior: smooth; }
+
+body {
+  @apply bg-white text-black font-sans;
+  font-family: 'DM Sans', sans-serif;
+}
+
+/* Headings luxury serif */
+h1, h2, h3, h4 { font-family: 'Playfair Display', serif; @apply text-black; }
+
+/* Scrollbar */
+::-webkit-scrollbar{ width:10px; }
+::-webkit-scrollbar-track{ background:#f1f1f1; }
+::-webkit-scrollbar-thumb{ background-color:#D4AF37; border-radius:6px; border:2px solid #f1f1f1; }
+
+/* Effects & utilities */
+.drop-shadow-gold{ filter:drop-shadow(0 0 6px rgba(212,175,55,.7)); }
+.btn-gold{ @apply border border-gold text-gold bg-transparent hover:bg-gold hover:text-black px-5 py-2 rounded-md font-medium transition duration-300; }
+.btn-black{ @apply bg-black text-white hover:bg-gold hover:text-black px-5 py-2 rounded-md font-medium transition duration-300; }
+.section-divider{ @apply w-16 h-[2px] bg-gold my-6 mx-auto; }
+
+:root{ --header-h:120px; --footer-h:72px; }
+@media (min-width:768px){ :root{ --header-h:100px; --footer-h:80px; } }
+
+@layer utilities{
+  .h-header{ height:var(--header-h); }
+  .h-footer{ height:var(--footer-h); }
+  .safe-header{ padding-top:var(--header-h); }
+  .safe-footer{ padding-bottom:calc(var(--footer-h) + env(safe-area-inset-bottom)); }
+  .min-h-dvh{ min-height:100vh; min-height:100dvh; }
+
+   .word-anywhere {
+    overflow-wrap: anywhere;       /* preferred */
+    word-break: break-word;        /* fallback */
+  }
+   .safe-scroll {
+    height: 100dvh;
+    padding-top: var(--header-h);
+    padding-bottom: var(--footer-h);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch; /* smooth iOS */
+    overscroll-behavior-y: contain;    /* no bounce chaining */
+  }
+
+  /* Keep this if you like the no-bounce feel on supported browsers */
+  .no-overscroll {
+    overscroll-behavior-y: contain;
+    overscroll-behavior-x: none;
+    touch-action: pan-y;
+  }
+}
+
+html, body, #app{ height:100%; }
+
+section[id] {
+  scroll-margin-top: calc(var(--header-h) + 12px);
+}
+
+/* Base hidden state for animatable elements */
+.aov {
+  opacity: 0;
+  transform: translateY(20px);
+  will-change: opacity, transform;
+}
+
+/* When in view, apply the animation class that JS toggles */
+.aov.aov-animating {
+  animation-duration: var(--aov-duration, 600ms);
+  animation-delay: var(--aov-delay, 0ms);
+  animation-fill-mode: both;
+  animation-timing-function: cubic-bezier(.2,.65,.3,1);
+}
+
+/* Variants switch via [data-anim] */
+.aov.in-view[data-anim="fade-up"]     { animation-name: aov-fade-up; }
+.aov.in-view[data-anim="fade-in"]     { animation-name: aov-fade-in; }
+.aov.in-view[data-anim="slide-left"]  { animation-name: aov-slide-left; }
+.aov.in-view[data-anim="slide-right"] { animation-name: aov-slide-right; }
+.aov.in-view[data-anim="zoom-in"]     { animation-name: aov-zoom-in; }
+
+/* Keyframes */
+@keyframes aov-fade-up {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes aov-fade-in {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+@keyframes aov-slide-left {
+  from { opacity: 0; transform: translateX(24px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+@keyframes aov-slide-right {
+  from { opacity: 0; transform: translateX(-24px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+@keyframes aov-zoom-in {
+  from { opacity: 0; transform: scale(.96); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+/* Reduced motion: reveal instantly */
+@media (prefers-reduced-motion: reduce) {
+  .aov { opacity: 1 !important; transform: none !important; animation: none !important; }
+}
+
+
+@media (max-width: 768px) {
+  #services .aov:not(.in-view),
+  #services-content.aov:not(.in-view) {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}

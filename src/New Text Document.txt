@@ -1,0 +1,17 @@
+,
+      {
+        "text": "<span class='font-semibold text-gold'>Mohamed Tawfik Law Firm</span> stands for trust, integrity, and professionalism. We deliver clear solutions across all areas of law in Egypt, giving you not just advice, but a reliable partner who protects your rights and future.",
+        "image": "src/assets/about/trust.jpg"
+      }
+
+,
+      {
+        "text": "<span class='font-semibold text-gold'>Mohamed Tawfik Law Firm</span> to zaufanie, uczciwość i profesjonalizm. Dostarczamy przejrzyste rozwiązania we wszystkich dziedzinach prawa w Egipcie, oferując nie tylko poradę, ale i partnera, który chroni Twoje prawa i przyszłość.",
+        "image": "src/assets/about/trust.jpg"
+      }
+
+,
+      {
+        "text": "<span class='font-semibold text-gold'>Mohamed Tawfik Law Firm</span> — это доверие, честность и профессионализм. Мы предлагаем прозрачные решения во всех областях права в Египте, давая вам не просто совет, а надежного партнёра, который защищает ваши права и будущее.",
+        "image": "src/assets/about/trust.jpg"
+      }

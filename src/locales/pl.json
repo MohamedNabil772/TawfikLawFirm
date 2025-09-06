@@ -1,0 +1,238 @@
+{
+  "contact": {
+    "title": "Skontaktuj się z nami",
+    "subtitle": "Dyskrecja. Precyzja. Rezultaty.",
+    "hero": {
+      "image": "src/assets/contact/hero.jpg",
+      "tagline": "Twój zaufany partner prawny w Egipcie."
+    },
+    "whatsapp": {
+      "phone": "+201000978700",
+      "message": "Dzień dobry, chciałbym umówić konsultację prawną w sprawie nieruchomości/biznesu w Hurghadzie."
+    },
+    "facebook": "https://www.facebook.com/profile.php?id=100063763794134",
+    "phone": "+20 100 097 8700",
+    "email": "mohamedtawfiklawyer@gmail.com",
+    "address": "Hurghada – Kawther, Contact Building",
+    "map": {
+      "embedUrl": "https://www.google.com/maps?output=embed&q=Hurghada%20%E2%80%93%20Kawther%2C%20Contact%20Building",
+      "directUrl": "https://maps.app.goo.gl/1TFzpaZpAf7bfP8J7",
+      "label": "Kancelaria Mohameda Tawfika — Hurghada, Kawther"
+    },
+    "highlights": [
+      "Spersonalizowane doradztwo dla klientów międzynarodowych",
+      "Specjaliści od nieruchomości i prawa spółek",
+      "Przejrzyste opłaty i jasne terminy"
+    ],
+    "labels": {
+      "call": "Zadzwoń",
+      "email": "Email",
+      "phone": "Telefon",
+      "address": "Adres",
+      "visitOffice": "Odwiedź nasze biuro",
+      "openInMaps": "Otwórz w Mapach",
+      "messageOnWhatsApp": "Wiadomość na WhatsApp",
+      "chatOnWhatsApp": "Czat na WhatsApp"
+    }
+  },
+  "practice": {
+    "title": "Obszary praktyki",
+    "areas": [
+      {
+        "title": "Prawo korporacyjne",
+        "description": "Usługi prawne dla firm, w tym fuzje i przejęcia."
+      },
+      {
+        "title": "Prawo rodzinne",
+        "description": "Rozwody, opieka nad dziećmi i inne sprawy rodzinne."
+      },
+      {
+        "title": "Obrona karna",
+        "description": "Reprezentowanie klientów oskarżonych o przestępstwa."
+      }
+    ]
+  },
+  "about": {
+    "title": "O nas",
+    "paragraphs": [
+      {
+        "text": "Każdy w pewnym momencie potrzebuje porady prawnej. Niezależnie od tego, czy chodzi o biznes, nieruchomości czy sprawy osobiste, <span class='font-semibold text-gold'>Kancelaria Mohamed Tawfik</span> zapewnia profesjonalną konsultację opartą na dogłębnej znajomości prawa egipskiego.",
+        "image": "src/assets/about/business-law.jpg"
+      },
+      {
+        "text": "Rozpoczęcie działalności gospodarczej w Egipcie wymaga solidnych podstaw prawnych. Zapewniamy kompleksowe wsparcie: od wyboru formy prawnej, przez rejestrację firmy w GAFI, po uzyskanie numeru podatkowego i otwarcie firmowego konta bankowego.",
+        "image": "src/assets/about/company-setup.jpg"
+      },
+      {
+        "text": "Dla klientów zagranicznych oferujemy pełną obsługę procedur pobytowych w Egipcie: szybkie procesy, tłumaczenia przysięgłe i kompleksowe wsparcie dokumentacyjne.",
+        "image": "src/assets/about/residence.jpg"
+      },
+      {
+        "text": "W prawie nieruchomości specjalizujemy się w ochronie inwestorów w Hurghadzie i regionie Morza Czerwonego. Sprawdzamy własność, przygotowujemy solidne umowy i poprzez <span class='font-semibold text-gold'>Tawfik Property</span> zapewniamy przejrzystość i bezpieczeństwo prawne.",
+        "image": "src/assets/about/real-estate.jpg"
+      }
+    ]
+  },
+  "why": {
+    "title": "Dlaczego warto wybrać naszą Kancelarię",
+    "subtitle": "Z bezkompromisowym zaangażowaniem i uczciwością dostarczamy strategiczne rozwiązania prawne, które chronią Twoją przyszłość.",
+    "badges": ["DOSKONAŁOŚĆ", "UCZCIWOŚĆ", "ZAUFANIE"],
+    "stats": [
+      { "number": "2000+", "label": "Konsultacji z klientami" },
+      { "number": "1500+", "label": "Wygranych spraw" },
+      { "number": "15+", "label": "Lat doskonałości" }
+    ]
+  },
+  "services": {
+    "title": "Nasze usługi",
+    "subtitle": "Przejrzyste, zgodne z prawem i praktyczne wsparcie prawne — dopasowane do Twoich celów w Egipcie.",
+    "cards": [
+      {
+        "slug": "business-setup-essentials",
+        "title": "Zakładanie firmy w Egipcie: Podstawy prawne",
+        "summary": "Krok po kroku do własnej, zgodnej z prawem spółki — z adwokatem Mohamedem Tawfikiem.",
+        "points": [
+          "Wybór optymalnej formy prawnej (sp. z o.o., jednoosobowa działalność, spółka akcyjna itp.).",
+          "Rejestracja firmy w GAFI i innych urzędach — kompleksowa obsługa.",
+          "Uzyskanie numeru identyfikacji podatkowej i rejestracja w egipskim urzędzie skarbowym.",
+          "Otwarcie rachunku bankowego dla firmy z kompletem wymaganych dokumentów."
+        ],
+        "whatsappMessage": "Dzień dobry, interesuje mnie założenie spółki w Egipcie (forma prawna, GAFI, NIP, konto bankowe)."
+      },
+      {
+        "slug": "residence-papers",
+        "title": "Dokumenty pobytowe w Egipcie",
+        "summary": "Pełna obsługa procedur pobytowych dla cudzoziemców — szybko i bez stresu.",
+        "points": [
+          "Łatwa i szybka procedura.",
+          "Szybkie przygotowanie dokumentów.",
+          "Tłumaczenia poświadczone.",
+          "Obsługa dedykowana obcokrajowcom."
+        ],
+        "whatsappMessage": "Dzień dobry, potrzebuję pomocy w sprawie dokumentów pobytowych i tłumaczeń poświadczonych w Egipcie."
+      },
+      {
+        "slug": "real-estate-protection",
+        "title": "Prawo nieruchomości i ochrona inwestycji",
+        "summary": "Kupuj i inwestuj bezpiecznie w Hurghadzie i nad Morzem Czerwonym — Twoje prawa są chronione.",
+        "links": [
+          { "label": "Tawfik Real Estate", "href": "https://tawfikrealestate.com/" }
+        ],
+        "points": [
+          "Weryfikacja prawa własności i rejestrów gruntów.",
+          "Przygotowanie i analiza umów kupna-sprzedaży.",
+          "Pełna analiza prawna, aby uniknąć sporów i oszustw.",
+          "Obsługa notarialna i rejestracja umów."
+        ],
+        "whatsappMessage": "Dzień dobry, potrzebuję due diligence prawnego dla nieruchomości w Hurghadzie/regionie Morza Czerwonego."
+      },
+      {
+        "slug": "idea-to-entity",
+        "title": "Od pomysłu do spółki",
+        "summary": "Przekształcamy Twój biznesowy pomysł w oficjalnie zarejestrowaną firmę.",
+        "points": [
+          "Doradztwo i wybór najlepszej formy prawnej.",
+          "Przygotowanie i złożenie dokumentów.",
+          "Uzyskanie licencji i zezwoleń.",
+          "Stałe wsparcie prawne w działalności."
+        ],
+        "whatsappMessage": "Dzień dobry, chcę przekształcić mój pomysł w zarejestrowaną spółkę. Proszę o wskazówki."
+      },
+      {
+        "slug": "property-registration",
+        "title": "Rejestracja nieruchomości",
+        "summary": "Miej. Zabezpiecz. Zarejestruj — nadaj własności pełną moc prawną.",
+        "points": [
+          "Pełne potwierdzenie prawa własności.",
+          "Poprawne sporządzenie i złożenie dokumentów.",
+          "Ochrona przed sporami i oszustwami."
+        ],
+        "whatsappMessage": "Dzień dobry, chciałbym zarejestrować swoją nieruchomość i potwierdzić prawo własności."
+      },
+      {
+        "slug": "foreign-buyers-advice",
+        "title": "Zakup nieruchomości przez cudzoziemców",
+        "summary": "Inwestuj bezpiecznie — z pełnym wsparciem prawnym i jasnością kosztów.",
+        "points": [
+          "Weryfikacja własności w oficjalnych rejestrach.",
+          "Analiza umowy przed podpisaniem.",
+          "Doradztwo w zakresie stref z ograniczeniami dla obcokrajowców.",
+          "Przejrzysty wykaz kosztów i obowiązków."
+        ],
+        "whatsappMessage": "Dzień dobry, jestem cudzoziemcem i potrzebuję porady przy zakupie nieruchomości w Egipcie."
+      },
+      {
+        "slug": "inheritance-planning",
+        "title": "Planowanie spadkowe",
+        "summary": "Zaplanuj dziś — chroń jutro. Upewnij się, że majątek trafi do właściwych osób.",
+        "points": [
+          "Unikanie sporów rodzinnych.",
+          "Prawidłowe prawne przekazanie majątku.",
+          "Indywidualne strategie dziedziczenia."
+        ],
+        "whatsappMessage": "Dzień dobry, chciałbym porozmawiać o planowaniu spadkowym i zabezpieczeniu majątku."
+      },
+      {
+        "slug": "title-transfer",
+        "title": "Przeniesienie własności",
+        "summary": "Prawidłowe przeniesienie własności — zgodnie z prawem i bez ryzyka.",
+        "points": [
+          "Sprawdzenie i potwierdzenie własności.",
+          "Sporządzenie i analiza umów.",
+          "Rejestracja u notariusza.",
+          "Ochrona przed ukrytymi zobowiązaniami."
+        ],
+        "whatsappMessage": "Dzień dobry, potrzebuję pomocy przy przeniesieniu własności nieruchomości."
+      },
+      {
+        "slug": "land-vs-property",
+        "title": "Ziemia a nieruchomość — różnice prawne",
+        "summary": "Zakup ziemi i gotowej nieruchomości to inne procedury prawne — doradzimy Ci właściwie.",
+        "points": [
+          "Ograniczenia przy zakupie ziemi.",
+          "Łatwiejsze procedury przy zakupie gotowego lokalu.",
+          "Unikanie opóźnień i problemów z pozwoleniami."
+        ],
+        "whatsappMessage": "Dzień dobry, potrzebuję porady dotyczącej zakupu działki vs. gotowego lokalu w Egipcie."
+      },
+      {
+        "slug": "contract-review",
+        "title": "Analiza umów",
+        "summary": "Ukryte zapisy mogą być kosztowne — sprawdzimy umowę dla Twojego bezpieczeństwa.",
+        "points": [
+          "Szczegółowa analiza zapisów umowy.",
+          "Wyjaśnienie ryzyk i obowiązków.",
+          "Wsparcie w negocjacjach."
+        ],
+        "whatsappMessage": "Dzień dobry, proszę o weryfikację umowy dotyczącej nieruchomości przed podpisaniem."
+      },
+      {
+        "slug": "tax-burden-note",
+        "title": "Podatek od transakcji nieruchomości",
+        "summary": "Podatek zawsze obciąża sprzedającego — przerzucanie go na kupującego jest nieważne.",
+        "points": [
+          "Klauzula przerzucająca podatek na kupującego jest nieważna.",
+          "Jeśli kupujący zapłacił podatek, może go odzyskać od sprzedającego."
+        ],
+        "legal": "Sąd Kasacyjny Egiptu: Sprawa nr 2404 z 31/01/2001.",
+        "whatsappMessage": "Dzień dobry, mam pytanie o to, kto ponosi podatek od transakcji nieruchomości."
+      },
+      {
+        "slug": "foreign-ownership",
+        "title": "Czy cudzoziemcy mogą posiadać nieruchomości w Egipcie?",
+        "summary": "Tak. Właściwe procedury prawne pozwalają cudzoziemcom na bezpieczny zakup i rejestrację.",
+        "points": [
+          "Zrozumienie warunków i wymaganych pozwoleń.",
+          "Poprawna rejestracja własności.",
+          "Ochrona praw przy odsprzedaży i dziedziczeniu."
+        ],
+        "whatsappMessage": "Dzień dobry, proszę o wskazówki w sprawie własności nieruchomości przez cudzoziemców w Egipcie."
+      }
+    ]
+  },
+  "navigation": {
+    "about": "O nas",
+    "services": "Nasze usługi",
+    "contact": "Kontakt"
+  }
+}

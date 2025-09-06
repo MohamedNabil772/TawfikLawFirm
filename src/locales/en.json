@@ -1,0 +1,300 @@
+{
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Discretion. Precision. Results.",
+    "hero": {
+      "image": "src/assets/contact/hero.jpg",
+      "tagline": "Your trusted legal partner in Egypt."
+    },
+    "whatsapp": {
+      "phone": "+201000978700",
+      "message": "Hello, I’d like to book a legal consultation about real estate/business in Hurghada."
+    },
+    "facebook": "https://www.facebook.com/profile.php?id=100063763794134",
+    "phone": "+20 100 097 8700",
+    "email": "mohamedtawfiklawyer@gmail.com",
+    "address": "Hurghada – Kawther, Contact Building",
+    "map": {
+      "embedUrl": "https://www.google.com/maps?output=embed&q=Hurghada%20%E2%80%93%20Kawther%2C%20Contact%20Building",
+      "directUrl": "https://maps.app.goo.gl/1TFzpaZpAf7bfP8J7",
+      "label": "Mohamed Tawfik Law Firm — Hurghada, Kawther"
+    },
+    "highlights": [
+      "Tailored counsel for international clients",
+      "Real-estate and corporate specialists",
+      "Transparent fees & clear timelines"
+    ],
+    "labels": {
+      "call": "Call",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "visitOffice": "Visit Our Office",
+      "openInMaps": "Open in Maps",
+      "messageOnWhatsApp": "Message on WhatsApp",
+      "chatOnWhatsApp": "Chat on WhatsApp"
+    }
+  },
+  "practice": {
+    "title": "Practice Areas",
+    "areas": [
+      {
+        "title": "Corporate Law",
+        "description": "Legal services for businesses including mergers and acquisitions."
+      },
+      {
+        "title": "Family Law",
+        "description": "Divorces, custody, and other family-related matters."
+      },
+      {
+        "title": "Criminal Defense",
+        "description": "Representing clients accused of criminal offenses."
+      }
+    ]
+  },
+  "about": {
+    "title": "About Us",
+    "paragraphs": [
+      {
+        "text": "Everyone needs legal advice at some point. Whether it's business, property, or personal matters, <span class='font-semibold text-gold'>Mohamed Tawfik Law Firm</span> is here to provide the legal consultation you need, with deep expertise and knowledge of Egyptian law.",
+        "image": "src/assets/about/business-law.jpg"
+      },
+      {
+        "text": "Starting a Business in Egypt requires the right legal foundation. We provide comprehensive guidance from choosing the legal structure, company registration with GAFI, obtaining a tax ID, to opening corporate bank accounts.",
+        "image": "src/assets/about/company-setup.jpg"
+      },
+      {
+        "text": "For foreign clients, our firm offers complete service for residence procedures in Egypt: fast processing, certified translations, and smooth handling of all documentation. We make your paperwork effortless.",
+        "image": "src/assets/about/residence.jpg"
+      },
+      {
+        "text": "In real estate law, we specialize in protecting investors in Hurghada and the Red Sea. We verify ownership, draft solid contracts, and through <span class='font-semibold text-gold'>Tawfik Property</span> ensure both transparency and security.",
+        "image": "src/assets/about/real-estate.jpg"
+      }
+    ]
+  },
+  "why": {
+    "title": "Why Choose Our Firm",
+    "subtitle": "With unmatched dedication and integrity, we provide strategic legal solutions that safeguard your future.",
+    "badges": ["EXCELLENCE", "INTEGRITY", "TRUST"],
+    "stats": [
+      { "number": "2000+", "label": "Client Consultations" },
+      { "number": "1500+", "label": "Successful Cases" },
+      { "number": "15+", "label": "Years of Excellence" }
+    ]
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Clear, compliant, and practical legal support — tailored to your goals in Egypt.",
+    "cards": [
+      {
+        "slug": "business-setup-essentials",
+        "title": "Starting a Business in Egypt: Legal Essentials",
+        "summary": "Your step-by-step guide to launching a compliant company — with Lawyer Mohamed Tawfik.",
+        "points": [
+          "Choosing the right legal structure (LLC, Sole Proprietorship, JSC, and more) aligned to your goals.",
+          "Company registration with GAFI and all relevant authorities — end-to-end handling.",
+          "Obtaining your Tax Identification Number and registration with the Egyptian Tax Authority.",
+          "Opening a corporate bank account with the necessary legal documentation and guidance."
+        ],
+        "cta": {
+          "phone": "+201000978700",
+          "email": "mohamedtawfiklawyer@gmail.com"
+        },
+        "address": "Hurghada – Kawther, Contact Building",
+        "whatsappMessage": "Hello, I’m interested in company setup in Egypt (structure, GAFI, tax ID, bank account)."
+      },
+      {
+        "slug": "residence-papers",
+        "title": "Residence Papers Made Easy",
+        "summary": "A smooth, stress-free residence process with certified translations and complete handling for foreign clients in Egypt.",
+        "points": [
+          "Simple, fast, and fully managed procedure.",
+          "Quick completion of documentation and filings.",
+          "Certified document translation by professionals.",
+          "Specialized service for non-Egyptian clients."
+        ],
+        "cta": {
+          "phone": "+201000978700",
+          "email": "mohamedtawfiklawyer@gmail.com"
+        },
+        "address": "Hurghada – Kawther, Contact Building",
+        "whatsappMessage": "Hello, I need help with residence papers and certified translations in Egypt."
+      },
+      {
+        "slug": "real-estate-protection",
+        "title": "Real-Estate Law & Investment Protection",
+        "summary": "Buy, sell, or invest with confidence in Hurghada and the Red Sea — your rights protected at every step.",
+        "points": [
+          "Ownership verification and land registry checks.",
+          "Drafting and reviewing robust sale and purchase agreements.",
+          "Clear due diligence to prevent disputes and fraud.",
+          "Seamless coordination with notary and registration offices."
+        ],
+        "cta": {
+          "phone": "+201000978700",
+          "email": "mohamedtawfiklawyer@gmail.com"
+        },
+        "links": [
+          { "label": "Tawfik Real Estate", "href": "https://tawfikrealestate.com/" }
+        ],
+        "address": "Hurghada – Kawther, Contact Building",
+        "whatsappMessage": "Hello, I need legal due diligence for a property in Hurghada/Red Sea."
+      },
+      {
+        "slug": "idea-to-entity",
+        "title": "From Idea to Entity",
+        "summary": "Transform your business idea into a legally recognized company — end to end.",
+        "points": [
+          "Consultation & legal advice on the optimal company structure.",
+          "Document preparation and official submissions.",
+          "Licensing and governmental approvals.",
+          "Ongoing legal support to keep you compliant."
+        ],
+        "cta": {
+          "phone": "+201000978700",
+          "email": "mohamedtawfiklawyer@gmail.com"
+        },
+        "address": "Hurghada – Kawther, Contact Building",
+        "whatsappMessage": "Hello, I want to turn my business idea into a registered company. Please guide me."
+      },
+      {
+        "slug": "property-registration",
+        "title": "Property Registration",
+        "summary": "Own it. Secure it. Register it — make your ownership official and fully protected.",
+        "points": [
+          "Full legal recognition of your ownership.",
+          "Accurate preparation and filing of all documents.",
+          "Protection against future disputes, fraud, or loopholes."
+        ],
+        "cta": {
+          "phone": "+201000978700",
+          "email": "mohamedtawfiklawyer@gmail.com"
+        },
+        "address": "Hurghada – Kawther, Contact Building",
+        "whatsappMessage": "Hello, I’d like to register my property and secure legal ownership."
+      },
+      {
+        "slug": "foreign-buyers-advice",
+        "title": "Buying Property in Egypt (Foreign Buyers)",
+        "summary": "Invest safely with clear legal guidance — avoid common traps and hidden costs.",
+        "points": [
+          "Verify ownership with official land registry documents.",
+          "Comprehensive contract review before you sign.",
+          "Clarity on zoning, restrictions, and foreign ownership rules.",
+          "Transparent breakdown of all fees and obligations."
+        ],
+        "cta": {
+          "phone": "+201000978700",
+          "email": "mohamedtawfiklawyer@gmail.com"
+        },
+        "links": [
+          { "label": "Tawfik Real Estate", "href": "https://tawfikrealestate.com/" }
+        ],
+        "address": "Hurghada – Kawther, Contact Building",
+        "whatsappMessage": "Hello, I’m a foreign buyer and need legal advice for purchasing property in Egypt."
+      },
+      {
+        "slug": "inheritance-planning",
+        "title": "Inheritance & Estate Planning",
+        "summary": "Plan today, protect tomorrow — ensure your assets go exactly where you intend.",
+        "points": [
+          "Prevent family disputes with clear legal structures.",
+          "Ensure lawful transfer and recognized ownership for heirs.",
+          "Tailored wills and succession strategies for peace of mind."
+        ],
+        "cta": {
+          "phone": "+201000978700",
+          "email": "mohamedtawfiklawyer@gmail.com"
+        },
+        "address": "Hurghada – Kawther, Contact Building",
+        "whatsappMessage": "Hello, I’d like to discuss inheritance and estate planning for my assets."
+      },
+      {
+        "slug": "title-transfer",
+        "title": "Property Title Transfer",
+        "summary": "Transfers done the right way — precise, compliant, and dispute-proof.",
+        "points": [
+          "Ownership verification and due diligence.",
+          "Drafting & reviewing sale/gift contracts.",
+          "Registration at the notary and relevant authorities.",
+          "Protection from hidden liabilities and future claims."
+        ],
+        "cta": {
+          "phone": "+201000978700",
+          "email": "mohamedtawfiklawyer@gmail.com"
+        },
+        "address": "Hurghada – Kawther, Contact Building",
+        "whatsappMessage": "Hello, I need assistance with transferring property ownership."
+      },
+      {
+        "slug": "land-vs-property",
+        "title": "Land vs. Property — Know the Difference",
+        "summary": "Land and finished property follow different legal paths — choose wisely.",
+        "points": [
+          "Understand restrictions on land purchases.",
+          "Faster, clearer paths for finished property ownership.",
+          "Avoid delays in registration and permit issues."
+        ],
+        "cta": {
+          "phone": "+201000978700",
+          "email": "mohamedtawfiklawyer@gmail.com"
+        },
+        "address": "Hurghada – Kawther, Contact Building",
+        "whatsappMessage": "Hello, I need advice on buying land vs. finished property in Egypt."
+      },
+      {
+        "slug": "contract-review",
+        "title": "Real-Estate Contract Review",
+        "summary": "Don’t let hidden clauses cost you — get a professional legal review.",
+        "points": [
+          "Line-by-line contract analysis before you sign.",
+          "Clear explanation of obligations and risks.",
+          "Negotiation guidance to protect your position."
+        ],
+        "cta": {
+          "phone": "+201000978700",
+          "email": "mohamedtawfiklawyer@gmail.com"
+        },
+        "address": "Hurghada – Kawther, Contact Building",
+        "whatsappMessage": "Hello, please review my real-estate contract before I sign."
+      },
+      {
+        "slug": "tax-burden-note",
+        "title": "Real-Estate Tax — Who Pays?",
+        "summary": "By law, the seller (transferor) bears the real-estate transaction tax — clauses shifting it to the buyer are void.",
+        "points": [
+          "Any agreement transferring the tax burden to the buyer is legally void.",
+          "If the buyer pays, they may recover it from the seller (unjust enrichment)."
+        ],
+        "legal": "Court of Cassation: Appeal No. 2404 of 63 Q, Session 31/01/2001, Issue 52, p. 233.",
+        "cta": {
+          "phone": "+201000978700",
+          "email": "mohamedtawfiklawyer@gmail.com"
+        },
+        "whatsappMessage": "Hello, I have a question about who pays the real-estate transaction tax."
+      },
+      {
+        "slug": "foreign-ownership",
+        "title": "Can Foreigners Own Property in Egypt?",
+        "summary": "Yes. With the right legal process, you can own — and protect — property in Egypt.",
+        "points": [
+          "Understand conditions and required approvals.",
+          "Register ownership correctly to prevent disputes.",
+          "Secure your rights for resale and inheritance."
+        ],
+        "cta": {
+          "phone": "+201000978700",
+          "email": "mohamedtawfiklawyer@gmail.com"
+        },
+        "address": "Hurghada – Kawther, Contact Building",
+        "whatsappMessage": "Hello, can you guide me on foreign ownership of property in Egypt?"
+      }
+    ]
+  },
+  "navigation": {
+    "about": "About Us",
+    "services": "Our Services",
+    "contact": "Contact"
+  }
+}
