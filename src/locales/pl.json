@@ -3,7 +3,7 @@
     "title": "Skontaktuj się z nami",
     "subtitle": "Dyskrecja. Precyzja. Rezultaty.",
     "hero": {
-      "image": "src/assets/contact/hero.jpg",
+      "image": "/images/contact/hero.jpg",
       "tagline": "Twój zaufany partner prawny w Egipcie."
     },
     "whatsapp": {
@@ -57,19 +57,19 @@
     "paragraphs": [
       {
         "text": "Każdy w pewnym momencie potrzebuje porady prawnej. Niezależnie od tego, czy chodzi o biznes, nieruchomości czy sprawy osobiste, <span class='font-semibold text-gold'>Kancelaria Mohamed Tawfik</span> zapewnia profesjonalną konsultację opartą na dogłębnej znajomości prawa egipskiego.",
-        "image": "src/assets/about/business-law.jpg"
+        "image": "/images/about/business-law.jpg"
       },
       {
         "text": "Rozpoczęcie działalności gospodarczej w Egipcie wymaga solidnych podstaw prawnych. Zapewniamy kompleksowe wsparcie: od wyboru formy prawnej, przez rejestrację firmy w GAFI, po uzyskanie numeru podatkowego i otwarcie firmowego konta bankowego.",
-        "image": "src/assets/about/company-setup.jpg"
+        "image": "/images/about/company-setup.jpg"
       },
       {
         "text": "Dla klientów zagranicznych oferujemy pełną obsługę procedur pobytowych w Egipcie: szybkie procesy, tłumaczenia przysięgłe i kompleksowe wsparcie dokumentacyjne.",
-        "image": "src/assets/about/residence.jpg"
+        "image": "/images/about/residence.jpg"
       },
       {
         "text": "W prawie nieruchomości specjalizujemy się w ochronie inwestorów w Hurghadzie i regionie Morza Czerwonego. Sprawdzamy własność, przygotowujemy solidne umowy i poprzez <span class='font-semibold text-gold'>Tawfik Property</span> zapewniamy przejrzystość i bezpieczeństwo prawne.",
-        "image": "src/assets/about/real-estate.jpg"
+        "image": "/images/about/real-estate.jpg"
       }
     ]
   },
